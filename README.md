@@ -1,5 +1,5 @@
 ## Notice
-This is not the updated version of moon animator but it will stil be able to run, I will update to the latest version later just not now. 
+This is not the updated version of moon animator but it will still be able to run, I will update to the latest version later just not now. 
 
 ## Install
 You can either locally install with the roblox file or you could just install the plugin [here](https://create.roblox.com/store/asset/16121601431)

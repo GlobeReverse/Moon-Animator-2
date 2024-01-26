@@ -1,4 +1,5 @@
--- xsixx
+-- Running this code wont work, it's just the main loading file
+
 ------------------------------------------------------------
 	local pluginToolbar
 
